@@ -19,7 +19,7 @@
 
     const CONFIG = {
         API_KEY: 'PUT-YOUR-API-HERE-AND-ONLY-DELEATE-The-TEXT-TELLING-YOU-THIS!!!!',
-        MODEL: 'deepseek/deepseek-chat-v3.1:free',
+        MODEL: 'amazon/nova-2-lite-v1:free',
         MAX_TOKENS: 2000
     };
 
