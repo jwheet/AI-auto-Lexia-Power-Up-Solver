@@ -66,9 +66,11 @@ Keep your key private. Do not share it publicly.
 5. Click **Edit**.
 6. Locate the configuration section near the top of the script:
 
-```js
-const OPENROUTER_API_KEY = "YOUR_KEY_HERE";
+`const OPENROUTER_API_KEY = "YOUR_KEY_HERE";`
+
 ---
+
+
 
                                                                                                     
                                             ==                                                      
