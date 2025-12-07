@@ -36,7 +36,7 @@ Once installed, confirm that Tampermonkey is active in your browser's extensions
 After Tampermonkey is installed, open the script page below and click **Install**:
 
 **Script Link:**  
-https://greasyfork.org/en/scripts/558194-lexia-powerup-solver-pro
+https://greasyfork.org/en/scripts/558245-lexia-powerup-solver-pro
 
 This will load the user script directly into Tampermonkey.
 
