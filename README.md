@@ -68,7 +68,7 @@ Keep your key private. Do not share it publicly.
 
 ```js
 const OPENROUTER_API_KEY = "YOUR_KEY_HERE";
-
+---
 
                                                                                                     
                                             ==                                                      
